@@ -1,1 +1,2 @@
-My first commit
+My first commit - 
+Now also update from Git 
